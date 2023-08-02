@@ -7,6 +7,10 @@
         <option value="$PROJECT_DIR$/one-to-one-mapping/pom.xml" />
         <option value="$PROJECT_DIR$/one-to-many-mapping/pom.xml" />
         <option value="$PROJECT_DIR$/many-to-many-mapping/pom.xml" />
+        <option value="$PROJECT_DIR$/Eager-Feching/pom.xml" />
+        <option value="$PROJECT_DIR$/Lazy-Feching/pom.xml" />
+        <option value="$PROJECT_DIR$/HQL/pom.xml" />
+        <option value="$PROJECT_DIR$/SQL/pom.xml" />
       </list>
     </option>
   </component>

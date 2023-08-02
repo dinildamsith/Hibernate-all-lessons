@@ -11,5 +11,8 @@
         <module name="many-to-many-mapping" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="HQL (2)" target="11" />
+    </bytecodeTargetLevel>
   </component>
 </project>

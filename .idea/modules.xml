@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Eager-Feching.iml" filepath="$PROJECT_DIR$/Eager-Feching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HQL/HQL.iml" filepath="$PROJECT_DIR$/HQL/HQL.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Lazy-Feching.iml" filepath="$PROJECT_DIR$/Lazy-Feching.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SQL/SQL.iml" filepath="$PROJECT_DIR$/SQL/SQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/hibernate-mapping.iml" filepath="$PROJECT_DIR$/hibernate-mapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/many-to-many-mapping.iml" filepath="$PROJECT_DIR$/many-to-many-mapping.iml" />
       <module fileurl="file://$PROJECT_DIR$/one-to-many-mapping.iml" filepath="$PROJECT_DIR$/one-to-many-mapping.iml" />
