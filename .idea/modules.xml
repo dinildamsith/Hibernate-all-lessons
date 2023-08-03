@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Cascade.iml" filepath="$PROJECT_DIR$/Cascade.iml" />
       <module fileurl="file://$PROJECT_DIR$/Eager-Feching.iml" filepath="$PROJECT_DIR$/Eager-Feching.iml" />
       <module fileurl="file://$PROJECT_DIR$/HQL/HQL.iml" filepath="$PROJECT_DIR$/HQL/HQL.iml" />
       <module fileurl="file://$PROJECT_DIR$/Lazy-Feching.iml" filepath="$PROJECT_DIR$/Lazy-Feching.iml" />

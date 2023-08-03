@@ -9,6 +9,11 @@
         <module name="one-to-many-mapping" />
         <module name="one-to-one-mapping" />
         <module name="many-to-many-mapping" />
+        <module name="HQL" />
+        <module name="Eager-Feching" />
+        <module name="Lazy-Feching" />
+        <module name="Cascade" />
+        <module name="SQL" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
